@@ -1,0 +1,15 @@
+{
+  "name": "my-first-appp",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "lab-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon lab-node.js"
+  },
+  "author": "Manjot Sandhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
