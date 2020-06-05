@@ -4,8 +4,9 @@
   "description": "lab2",
   "main": "lab-node.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "start": "nodemon lab-node.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon lab-node.js",
+    "start": "node lab-node.js"
   },
   "author": "Manjot Sandhu",
   "license": "ISC",
